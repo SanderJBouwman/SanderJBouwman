@@ -1,1 +1,1 @@
-[![SanderJBouwman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanderJBouwman&theme=transparen)
+![SanderJBouwman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanderJBouwman&show_icons=true&theme=transparent)
